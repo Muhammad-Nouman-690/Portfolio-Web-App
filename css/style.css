@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.head-buttons{
+    padding: 2px;
+}
+.second-buttons{
+    padding-left: 80px;
+}
+.slider marquee{
+    background-color: #008cff;
+}
+
+.separator{
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+
+.project marquee{
+    height: 200px;
+}
+.footer{
+    background-color: #25272e;
+}
+
+/* .navbar-nav{
+    float: right;
+} */
