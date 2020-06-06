@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* .seprate{
+    
+        width: 20%;
+        height: 3px;
+        background-color: black;
+        display: block;
+} */
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+
+/* .jumbotron{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../public/images/atmosphere-background-bright-clouds-19670.jpg);
+    background-size: cover;
+    background-position: center;
+   
+} */
+
+
+/* .creatdesign{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-size: cover;
+    background-position: center;
+}
+
+.fastsupport{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../public/images/black-textile-952670.jpg);
+    background-size: cover;
+    background-position: center;
+}  */
